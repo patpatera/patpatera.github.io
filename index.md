@@ -8,7 +8,6 @@ title: Patrik Patera
 
 📍 New Taipei, Taiwan  
 📧 [pat.patera@gmail.com](mailto:pat.patera@gmail.com)  
-📞 +886 912-208-406  
 🇨🇿 Czech Nationality  
 
 ---
