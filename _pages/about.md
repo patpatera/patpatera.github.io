@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me -- AI Researcher | Board Rider"
+title: "About Me -- AI Researcher & Board Rider"
 author_profile: true
 redirect_from: 
   - /about/
