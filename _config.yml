@@ -24,11 +24,11 @@ repository               : "patpatera/patpatera.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Patrik Patera"
+  name             : "Patrik Patera, Ph.D."
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. from Taiwan Tech"
   location         : "Taiwan"
-  employer         : "Red Brick University"
+  employer         : "Taiwan Tech (NTUST)"
   uri              : # URL
   email            : "pat.patera@gmail.com" 
 
@@ -85,7 +85,7 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
+    title: 'Patents'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
