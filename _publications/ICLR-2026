@@ -1,0 +1,13 @@
+---
+title: "Lightweight Spatio-Temporal Modeling via Temporally Shifted Distillation for Real-Time Accident Anticipation"
+collection: publications
+category: conferences
+permalink: /publication/ICLR-2026
+excerpt: 'A lightweight, real-time accident predictor trained via novel temporally shifted distillation, combining efficient spatial encoding and recurrent temporal modeling, running on edge devices.'
+date: 2026-01-26
+venue: 'The Fourteenth International Conference on Learning Representations (ICLR)'
+paperurl: 'https://openreview.net/forum?id=8zzfTSVds2'
+citation: 'P.Patera, Y.-T. Chen, W.-H. Fang, "Lightweight Spatio-Temporal Modeling via Temporally Shifted Distillation for Real-Time Accident Anticipation,"The Fourteenth International Conference on Learning Representations (ICLR), Rio de Janeiro, Brazil, 2026, pp. 1-20, url: https://openreview.net/forum?id=8zzfTSVds2'
+---
+
+Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
