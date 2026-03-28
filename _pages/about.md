@@ -19,3 +19,10 @@ Work Experience
 
 Education
 ======
+
+Honors & Awards
+======
+1. IT SPY 2020 -- One of the top Master's thesis in Central Europe in 2020. 
+2. M.Sc. Diploma with Honours.
+3. Awarded Taiwan Minister of Education Scholarship 2020-2024
+4. EMI Teaching Cecrificate.
