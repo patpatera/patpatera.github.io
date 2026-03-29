@@ -16,7 +16,12 @@ My mental reset is found in the fluid dynamics of motion—whether it’s the sp
 
 Work Experience
 ======
-* <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Research Assistant -  <a href="https://ece.ntust.edu.tw/">Taiwan Tech (NTUST)</a></span> <span style="flex: 0 0 auto"><i>Oct. 2020 - Jan. 2026</i></span></p>
+* <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Research Assistant -  <a href="https://www.ece.ntust.edu.tw/">Taiwan Tech (NTUST)</a></span> <span style="flex: 0 0 auto"><i>Oct. 2020 - Jan. 2026</i></span></p>
+* <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Teaching Assistant -  <a href="https://www.ece.ntust.edu.tw/">Taiwan Tech (NTUST)</a></span> <span style="flex: 0 0 auto"><i>Feb. 2021 - Jan. 2026</i></span></p>
+* <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Junior Researcher -  <a href="https://www.ntis.zcu.cz/en/index.html">NTIS Research Centre</a></span> <span style="flex: 0 0 auto"><i>Sept. 2019 - Sept. 2020</i></span></p>
+* <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Research & Software Engineer -  <a href="https://www.palaxo.com/">Palaxo International Ltd.</a></span> <span style="flex: 0 0 auto"><i>Sept. 2017 - Sept. 2020</i></span></p>
+* <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Software Engineer -  <a href="https://en.wikipedia.org/wiki/Kerio_Technologies">Kerio Technologies, Inc.</a></span> <span style="flex: 0 0 auto"><i>Jun. 2016 - Jun. 2017</i></span></p>
+
 
 Education
 ======
