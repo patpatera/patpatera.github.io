@@ -16,6 +16,7 @@ My mental reset is found in the fluid dynamics of motion—whether it’s the sp
 
 Work Experience
 ======
+* <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Research Assistant -  <a href="https://ece.ntust.edu.tw/">NVIDIA Research Taiwan</a></span> <span style="flex: 0 0 auto"><i>Oct. 2020 - Jan. 2026</i></span></p>
 
 Education
 ======
