@@ -4,7 +4,6 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/IVSS-course
 venue: "Taiwan Tech (NTUST), Department of Electronic & Computer Engineering"
-date: 2021 - 2026
 location: "Taipei, Taiwan"
 ---
 
